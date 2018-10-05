@@ -1,0 +1,6 @@
+[package]
+name = "ruz_exer07"
+version = "0.1.0"
+authors = ["gordian-eggo <columbus.knot@gmail.com>"]
+
+[dependencies]
